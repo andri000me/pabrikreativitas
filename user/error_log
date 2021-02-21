@@ -1,0 +1,4 @@
+[04-Jan-2019 22:30:12 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/pabb8836/public_html/database/koneksi.php on line 2
+[04-Jan-2019 22:30:12 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pabb8836/public_html/user/profil.php:44) in /home/pabb8836/public_html/user/part/header_menu.php on line 2
+[04-Jan-2019 22:32:35 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/pabb8836/public_html/database/koneksi.php on line 2
+[04-Jan-2019 22:32:35 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pabb8836/public_html/user/profil.php:44) in /home/pabb8836/public_html/user/part/header_menu.php on line 2
